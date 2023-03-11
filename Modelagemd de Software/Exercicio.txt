@@ -1,0 +1,15 @@
+Exercicio
+
+sistema que tem como objetivo atender a gestão de
+funcionários de uma empresa.
+
+REGRA DE NEGÓCIO:
+
+1 - Salário  trabalho calculado por horas trabalhadas
+ex: quantas horas trabalhos * 10;
+2 -Tem que ter salario bruto que junta o salario trabalho com o salario familia;
+3-Tem que ter salario liquido que tem que usar o salario bruto e o salario trabalho
+ex: salarioliquido= salariobruto- ((salarioTrabalho*0,085) +
+(salarioTrabalho*0,05))
+4-Tem que ter salario familia que sera calculado pelo numero de dependentes * 60.
+
