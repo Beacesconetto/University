@@ -1,0 +1,25 @@
+Aula 4 - Modelagem de Software
+
+Case: Lanchonete
+
+Nescessidade:
+NE01 - Otimizar o tempo do pedido até a entrega do lanche para que chegue em 30min ao cliente;
+NE02 - Realizar o pedido sem a nescessidade de ligaçoes.
+
+Requisitos funcionais:
+RF01 - A lanchonete deve ser capaz de fazer o pedido em 30 segundos;
+RF02 - O atendimento na lanchonete deve ser presencial;
+RF03 - O sistema deve permitir que o cliente realize um pedido de lanche e bebida;
+RF04 - O sistema deve permitir que o cliente cadastre seu nome, telefone e endereço;
+RF05 - O sistema debe permitir cadastrar bebidas;
+RF06 - O sistema deve encaminhar o pedido a produção quando o pedido for solicitado pelo cliente;
+RF07 - O sistema deve encaminhar o pedido a entrega quando a produção terminar;
+RF08 - O sistema deve permitir que o cliente realize o pagamento online.
+
+Requisitos não funcionais:
+RNF01 - O sistema deve ser executado em IOS14 e Android14;
+RNF02 -O tempo de processamento de cada tela deve ocorrer em no máximo 10 segundos.
+
+Regras de negócio:
+RN01 - A produção deve respeitar a fila de pedidos de acordo coma  solicitação dos clientes;
+RN02 - A entrega deve ocorrer de no máximo 30 minutos após a solicitação do cliente.

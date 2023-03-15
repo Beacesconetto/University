@@ -1,0 +1,29 @@
+Aula 4 - Modelagemd de Software
+
+Case: Locadora de carro
+
+
+NE01 - Saber identificar a categoria de cada carro ;
+NE02 - Ter identificação da marca de cada carro;
+NE03 - Saber o nome real do carro e seu ano de fabricação;
+
+Requisitos funcionais:
+RF01 - O sistema deve permitir somente clientes cadastrados locarem carros;
+RF02 - O sistema deve pedir o nome, telefone e endereço do cliente para o cadastro;
+RF03 - O sistema deve manter o registro de cada carro;
+RF04 - O sistema deve associar um núemro para cada cliente;
+RF05 - O sistema deve associar um número para cada carro; 
+RF06 - O sistema deve registrar qual carro  foi alugado ao cliente cadastrado;
+RF07 - O sistema deve permitir que o cliente alugue um carro de forma online;
+RF08 - O sitema deve permitir que o usuário emita relatórios de carros emprestados;
+RF09 - O sistema deve permitir que o usuário realize diversas locações de carros ao mesmo tempo.
+
+
+Regras não funcionais:
+RNF01 - O tempo de processamento de cada tela deve ocorrer em no máximo 10 segundos.
+RNF02 - O sistema deve ser executado no WINDOS11 e IOS14.
+
+
+Regras de negócio:
+RN01 - Os carros devem ter no máximo 5 anos de uso;
+RN02 - Cada tela deve ter no máximo 10 campos;

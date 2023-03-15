@@ -1,0 +1,18 @@
+Aula 4 - Modelagem de Software
+
+Case: Outlet
+
+Nescessidades:
+NE01 - 
+
+
+Requisitos funcionais:
+RF01 - 
+
+
+Requisitos não funcionais:
+RNF01 - 
+
+
+Regras de negócios:
+RN01 - 
